@@ -1,7 +1,3 @@
-> 🤖 Automatically generated.
-> Do not edit manually.
-
-
 # 📚 Repository Index
 
 
